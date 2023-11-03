@@ -18,7 +18,6 @@ for(let j=0; j<articles.length; j++){
         articles[j].style.display = "none";
     }
 }
-
     });
     }
    
